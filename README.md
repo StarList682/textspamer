@@ -15,9 +15,9 @@ Auto Message Sender is a Python script that automates sending messages in chat a
 
 ## Installation
 
-1. **Download (spamer.py)[https://github.com/StarList682/textspamer.git]**
+1. **Download [spamer.py](https://github.com/StarList682/textspamer.git)**
 
-2. **(Downloade VS code)[https://code.visualstudio.com/]**
+2. **[Downloade VS code](https://code.visualstudio.com/)**
 
 3. **Open spamer.py by VS code and open termianl in VS code**
 
