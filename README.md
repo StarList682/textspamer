@@ -1,13 +1,5 @@
 # Auto Message Sender
 
-Auto Message Sender is a Python script that automates sending messages in chat applications at specified intervals. This script is useful for situations where you need to send repeated messages without manual intervention.
-
-## Features
-
-- Automates message sending in any chat application.
-- Allows customization of message text, interval between messages, and number of repetitions.
-- Simple to set up and use.
-
 ## Requirements
 
 - Python 3.x
@@ -15,7 +7,7 @@ Auto Message Sender is a Python script that automates sending messages in chat a
 
 ## Installation
 
-1. **Download [spamer.py](https://github.com/StarList682/textspamer.git)**
+1. **Download [spamer.py](https://github.com/StarList682/textspamer/archive/refs/heads/main.zip)**
 
 2. **[Downloade VS code](https://code.visualstudio.com/)**
 
