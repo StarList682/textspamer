@@ -30,7 +30,7 @@
 
   **EXAMPLE**
 
-   !NOW IN GUI
+   NOW IN GUI
 
   ```bash
   Enter the message to send: Hello!
