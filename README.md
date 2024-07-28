@@ -29,6 +29,9 @@
    python scraper.py
 
   **EXAMPLE**
+
+   !NOW IN GUI
+
   ```bash
   Enter the message to send: Hello!
   Enter the interval between messages (in seconds): 10
