@@ -14,10 +14,17 @@
 3. **Open spamer.py by VS code and open termianl in VS code**
 
 4. **Library**
+1)
    ```bash
    pip install pyautogui
-
-5. **Usage**
+2)
+   ```bash
+   pip install pyperclip
+3)
+   ```bash
+   pip install emoji
+   
+6. **Usage**
    ```bash
    python scraper.py
 
@@ -28,6 +35,13 @@
   Enter the number of repetitions: 5
   You have 5 seconds to switch to the chat window.
   ```
+
+# Update
+
+**v 1.1 changes**
+
+- Now you can spam text with emoji
+
 ------------------------------------------------------
 
   **Donation**
