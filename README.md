@@ -38,9 +38,9 @@
 
 # Update
 
-**v 1.1 changes**
+**v 1.2 changes**
 
-- Now you can spam text with emoji
+- Graphical user interface (GUI)
 
 ------------------------------------------------------
 
