@@ -1,9 +1,12 @@
 # Auto Message Sender
 
-## Requirements
+## Premium Code
 
-- Python 3.x
-- `pyautogui` library
+- Works without crashing
+- Can send in 4 chats at the same time
+- Works faster
+
+**Buy here: [Telegram](https://t.me/StarList_saki0)**
 
 ## Installation
 
