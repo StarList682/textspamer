@@ -39,6 +39,12 @@
   You have 5 seconds to switch to the chat window.
   ```
 
+# -Tutorial (video)-
+
+YouTube: 
+-------
+Telegram: https://t.me/StarListHub/3
+
 # Update
 
 **v 1.2 changes**
