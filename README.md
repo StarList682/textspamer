@@ -26,7 +26,7 @@
    
 6. **Usage**
    ```bash
-   python scraper.py
+   python spamer.py
 
   **EXAMPLE**
 
